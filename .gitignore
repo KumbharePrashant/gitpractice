@@ -6,6 +6,7 @@ __pycache__/
 # C extensions
 *.so
 
+flskenv/
 # Distribution / packaging
 .Python
 build/
